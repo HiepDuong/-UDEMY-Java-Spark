@@ -55,8 +55,11 @@ Set SPARK_HOME to the path where you extracted Spark, e.g., C:\spark.
 
 Edit the Path variable in 'System Variables' and add %SPARK_HOME%\bin at the end.
 
-# 3. Running The application
+# 3. Running the application
 ## 1. Run with any IDEs (Eclipse, IOntelliJ)
 
 ## 2. spark submit
+
+go to the folder of the project and open the terminal there or cd path_to_your_project_directory
+
 spark submit com.package.classNameExample  /target/demo-0.0.1-SNAPSHOT.jar
