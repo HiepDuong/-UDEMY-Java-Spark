@@ -1,3 +1,5 @@
+# This project is from Apache Spark 2.0 with Java -Learn Spark from a Big Data Guru by Tao. W
+
 
 Here's a step-by-step guide on setting up Java 8, Hadoop, and running a Spark job using a JAR file
 
